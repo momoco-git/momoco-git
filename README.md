@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=199c24)
 # 태권 (TaeGwon)
-🌱 I’m SpartaCodingClub student 22.08.01. ~ 23.11.30. (3 months)<br>
+🌱 I’m SpartaCodingClub student 22.08.01. ~ 23.11 (3 months)<br>
 🌿 I’m currently learning ```Jest&Testing-Library``` , ```CI/CD by YAML```<br>
 🌴 I majored in nursing <br>
 🌳 I live in Seoul, Korea<br>
@@ -16,8 +16,5 @@
    <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white"><img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white"><img src="https://img.shields.io/badge/Testing Library-E33332?style=for-the-badge&logo=Testing Library&logoColor=white">
 
 
-
-## Business Tool
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 ## Social
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
