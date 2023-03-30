@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=199c24)
 # 태권 (TaeGwon)
-🌱 I’m SpartaCodingClub student 22.08.01. ~ 23.11 (3 months)<br>
+🌱 I’m SpartaCodingClub student 22.08.01. ~ 22.11.30. (3 months)<br>
 🌿 I’m currently learning ```Jest&Testing-Library``` , ```CI/CD by YAML```<br>
 🌴 I majored in nursing <br>
 🌳 I live in Seoul, Korea<br>
